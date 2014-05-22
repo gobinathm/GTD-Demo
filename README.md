@@ -1,6 +1,6 @@
 # Drupal Global Training Day - Demo Site
 
-Drupal Global Training Days is an initiative by the Drupal Association to introduce new and beginning users to Drupal. The Drupal Association is partnering with training companies to make this happen. Once a quarter, free or low cost training events will take place around the world with one of two curriculums:
+[Drupal Global Training Days](https://drupal.org/node/1600942) is an initiative by the [Drupal Association](https://drupal.org/node/1600942) to introduce new and beginning users to Drupal. The Drupal Association is partnering with training companies to make this happen. Once a quarter, free or low cost training events will take place around the world with one of two curriculums:
 
 * "Introduction to Drupal," a full day training on the basics of Drupal. Attendees will leave having successfully built a Drupal site. It is ideal for those interested in exploring Drupal as a career path.
 * "What is Drupal?" This half-day workshop will address the basics of Drupal, and will give an overview to those interested in evaluating or implementing Drupal.
