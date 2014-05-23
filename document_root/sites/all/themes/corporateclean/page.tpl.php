@@ -114,8 +114,9 @@
                 <h2>Project Name : 9/11 Memorial & Museum</h2>
                 <strong>Category : Non-Profit</strong><br/> 
                 <br/>
-                911Memorial.org supports the National September 11 Memorial & Museum and honors the victims of the attacks on the World Trade Center. This case study details their new website with expanded functionality anchored in Drupal.
-                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
+                911Memorial.org supports the National September 11 Memorial & Museum and honors the victims of the attacks on the World Trade Center. This case study details their new website with expanded functionality anchored in Drupal.<br><br>
+                "On September 11, 2011, 911memorial.org welcomed more than a million web visitors looking to commemorate the anniversary…We are very proud of the site, which has become an important tool for us to engage our supporters worldwide. Blink delivered a website that has become a global destination."
+                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="https://drupal.org/node/1585842">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
 				</div>
@@ -135,7 +136,8 @@
                 <h2>Project Name : Georgia.gov</h2>
                 <strong>Category : Government</strong><br/>
                 <br/>
-                When 85 executive branch agencies and 1,400 state and local government entities depend on you for IT infrastructure and network services, efficient and cost effective flow of information is critical. Georgia Technology Authority (GTA) recognized that their expensive proprietary CMS would not provide a long-term enterprise content management solution and turned to Drupal to transition their websites’ current platform to a more flexible system.
+                When 85 executive branch agencies and 1,400 state and local government entities depend on you for IT infrastructure and network services, efficient and cost effective flow of information is critical. Georgia Technology Authority (GTA) recognized that their expensive proprietary CMS would not provide a long-term enterprise content management solution and turned to Drupal to transition their websites’ current platform to a more flexible system. <br/><br>
+                GTA chose Drupal because it is cost effective and proven in the public sector as a secure and scalable content management system. GTA required a CMS that non-technical content administrators could easily use with the ability to manage content and diverse functionality at an enterprise scale. 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="https://drupal.org/node/1975200">Know More</a></div>
                 <!--EOF:slider-item content-->
                 
